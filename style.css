@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body h1 {
+  padding: 2px;
+  overflow: hidden;
+  text-align: center;
+}
+body .garis_tepi {
+  border: 1px solid black;
+  text-align: center;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+body .garis_tepi .listing {
+  padding: 15px 15px;
+  text-align: left;
+}
+body .garis_tepi table {
+  padding: 15px 15px;
+}
+body .garis_tepi p {
+  padding: 15px 15px;
+  text-align: justify;
+}
+body .garis_tepi ul {
+  list-style-type: none;
+  margin: 12px;
+  padding: 15px 15px;
+  overflow: hidden;
+}
+body .garis_tepi li {
+  float: left;
+  font-size: 15px;
+}
+body .garis_tepi li a {
+  color: #000000;
+  padding: 15px 15px;
+  text-decoration: none;
+}
+body .search {
+  padding: 20px 190px;
+  background: rgba(50, 50, 50, 0.2);
+  border: 0px solid #dbdbdb;
+}
+body .button {
+  position: relative;
+  padding: 18px 35px;
+  left: -8px;
+  border: 2px solid #808080;
+  background-color: #808080;
+  color: #fafafa;
+}
+body .button:hover {
+  background-color: #fafafa;
+  color: #000000;
+}
+body .lapor {
+  padding: 15px 15px;
+}
+body .lapor a {
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+}
+body textarea {
+  width: 300%;
+  height: 150px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+body select {
+  width: 100%;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+body input {
+  padding: 15px 15px;
+}
+
+/*# sourceMappingURL=style.css.map */
